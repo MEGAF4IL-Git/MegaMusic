@@ -14,5 +14,5 @@
 # Installation
 To run the discord bot all you need is python 3.13 or newer.\
 Then run `pip install -r requirements.txt` to install all of the python dependencies.\
-Please note that you will also need to have [ffmpeg](https://ffmpeg.org/download.html) installed and make sure that the path to the bin folder is in your environment variables.\ 
+Please note that you will also need to have [ffmpeg](https://ffmpeg.org/download.html) installed and make sure that the path to the bin folder is in your environment variables.\
 DO NOT FORGET to add a ".env" with the Discord Token. (i.e: "discord_token=TOKEN")
